@@ -1,1 +1,1 @@
-![github contribution grid snake animation](https://raw.githubusercontent.com/tcmiku/tcmiku/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tcmiku/tcmiku/output/github-contribution-grid-snake.svg" />
